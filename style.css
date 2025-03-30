@@ -69,13 +69,7 @@
   }
   
   .container div h3::after{
-    content: "";
-    position: absolute;
-    background: rgb(23, 125, 165);
-    height: 3px;
-    width: 130px;
-    top: 51%;
-    left: 15%;
+    content: none;
   }
   
   .container div p{
